@@ -1,12 +1,15 @@
 <!-- Source: https://github.com/MattIPv4/template/blob/master/README.md -->
 
 <!-- Title -->
-<h1 align="center">
+<h1 align="center" id="Template">
     <!-- Text only -->
-    <!--Template-->
+    <!-- Template -->
     <!-- or, Image logo -->
     <img src="https://via.placeholder.com/500x60.png?text=Template" alt="Template" width="500"/>
 </h1>
+
+<!-- Tag line -->
+<h3 align="center">Template's tag line.</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -19,11 +22,6 @@
 </p>
 
 ----
-
-<!-- Title & tag -->
-# Template
-
-**Template tag line.**
 
 <!-- Content -->
 ## Hello
