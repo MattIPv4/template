@@ -9,7 +9,7 @@
 </h1>
 
 <!-- Tag line -->
-<h3 align="center">Template's tag line.</h3>
+<h3 align="center">The template README (and other files) for my GitHub repositories.</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -26,7 +26,7 @@
 <!-- Content -->
 ## Hello
 
-Hello world.
+This repository stores my template README file along with other useful default & template files for my GitHub repositories.
 
 <!-- Contributing -->
 ## Contributing
