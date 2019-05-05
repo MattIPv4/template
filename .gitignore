@@ -5,7 +5,7 @@
 .idea/
 
 ## Python: Virtual Environments
-tests/venv/
+venv/
 ## Python: Module building
 *.egg-info/
 
